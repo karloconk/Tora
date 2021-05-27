@@ -1,0 +1,12 @@
+The store was operated by csv:
+
+//magia.csv
+Magic:        "Name", "Desc",Power,Cost
+
+//itemno.csv
+Item:         "Name","Desc", Itemnumber,Perks, Cost
+
+//equipo.csv
+Equipment:    "Name",area, level,Perks, Cost
+
+It is now operated by jsons but the idea is the same

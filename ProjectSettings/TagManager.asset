@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - cancionMenu
+  - Path
+  - Node
+  - Virtual Camera 2
+  - Characters
+  - Croc
+  - HellSlammer
+  - Silena
+  - TheEye
+  - RiceMan
+  - Witch
+  - Samurai
+  - Undead
+  - spacesLeft
+  - witchArm
+  - confirmSpace
+  - moveBack
+  - stayHere
+  - ricemanArm
+  - samuraiArm
+  - undeadArm
+  - hpMeFight
+  - hpEnemyFight
+  - hpMeDark
+  - hpEnemyDark
+  - timelineIntro
+  - factory
+  - rules
+  - Shopkeeper
+  - Dice
+  - Box
+  - nodesType
+  - playerFights
+  - Coin
+  - foundGold
+  - Virtual Camera 1
+  - spendNight
+  - stayNight
+  - refuseNight
+  - healthCare
+  - useHospital
+  - refuseHospital
+  - stayTurn
+  - fadingTimeline
+  - cleverCamera
+  - whoNext
+  - Statues
+  - SunMoon
+  - Sparks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Reflection_Probes
+  - Lighting
+  - Props
+  - ReflectedInWater
+  - Ground
+  - AccessibleVolume
+  - Characters
+  - NightSky
+  - Factory
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 3d
+    uniqueID: 380315573
+    locked: 0
