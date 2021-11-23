@@ -1,10 +1,14 @@
+# ⚔ Tora
 
-# Tora
+## 🔮 High Concept
 
-## Game information:
+* Tora is a table-top, adventure RPG where the player takes control of one of the different heroes and gets a shot at relinquishing evil from Tora, thus becoming it's new Champion. Made for PC, released on Steam.
 
-* Tora is a Pc based 3rd person table top like RPG released for steam
+## 💔 Known Issues
 
-## About:
+* None
 
-* Developed as a Team of four for Videogames topic at Tec de Monterrey.
+## 🧐 Special Notices:
+
+* Developed as a Team of four for Videogames topic at Tec de Monterrey, released on Steam as part of the topic.
+* Link to the game: https://store.steampowered.com/app/984260/Tora/
